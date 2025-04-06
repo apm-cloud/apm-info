@@ -2,17 +2,12 @@
 
 update-log:
 The versions that have stopped supporting are as follows:
+
 alpha 1
+
 alpha 1.1
+
 alpha 1.2
-
-
-
-
-
-
-
-
 
 Stop using separate language files for knitting (prone to knitting failures)
 
