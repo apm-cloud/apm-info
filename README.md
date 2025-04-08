@@ -12,6 +12,7 @@ alpha 1.2
 Stop using separate language files for knitting (prone to knitting failures)
 
 add AnOS Linux support.
+
 AnOS apm 1.0
 
 
